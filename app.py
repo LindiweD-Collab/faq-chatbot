@@ -38,7 +38,7 @@ faqs = [
         "keywords": ["services", "offer", "what do you do"],
         "question": "What services do you offer?",
         # Answer updated to include business name
-        "answer": f"{BUSINESS_NAME} specializes in providing innovative tech solutions, including custom software development, RPA automation, and data analysis services."
+        "answer": f"{BUSINESS_NAME} specializes in providing innovative tech solutions, including IT Support, RPA automation, Cybersecyrity training, Cloud migration consulting and data analysis services."
     },
     {
         "keywords": ["price", "cost", "pricing", "quote"],
